@@ -3,7 +3,7 @@ st - simple terminal
 
 This is a fork of the excellent st terminal emulator for X which sucks less.
 
-The original source code can be found here: https://git.suckless.org/st
+The original source code can be found here: https://git.suckless.org/st  
 The original README can be found here: [README](./README)
 
 Changes
